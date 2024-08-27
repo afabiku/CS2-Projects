@@ -1,0 +1,1 @@
+bubble sort is slowest because it took about 30 second to run, this is because of the way it implemented. 

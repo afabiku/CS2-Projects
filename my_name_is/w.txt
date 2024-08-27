@@ -1,0 +1,5 @@
+ 20:35:28 up 48 days,  4:25,  3 users,  load average: 1.14, 1.84, 1.60
+USER     TTY      FROM             LOGIN@   IDLE   JCPU   PCPU WHAT
+dolsen3  pts/3    76.189.140.2     20:29    3:20   0.02s  0.00s less
+achelsto pts/12   65.25.121.102    19:01    1:21m  0.09s  0.09s -bash
+afabiku1 pts/16   10.12.24.1       19:42    0.00s  0.29s  0.01s w
